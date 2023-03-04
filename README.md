@@ -173,6 +173,6 @@ const handleNewNoteView = (e) => {
 if (window.location.pathname === '/notes') {
   newNoteBtn.addEventListener('click', handleNewNoteView);
 }
-
+```
 
 > Visualize the final page [here](https://drums180.github.io/Note_Taker/)
