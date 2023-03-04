@@ -175,4 +175,4 @@ if (window.location.pathname === '/notes') {
 }
 ```
 
-> Visualize the final page [here](https://drums180.github.io/Note_Taker/)
+> Visualize the final page [here](https://secure-reef-85592.herokuapp.com)
